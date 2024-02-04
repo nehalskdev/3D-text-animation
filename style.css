@@ -13,6 +13,7 @@ body {
   place-items: center;
 
   background: #3d3d3d;
+  user-select: none;
 }
 .container {
   display: flex;
